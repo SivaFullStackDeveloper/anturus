@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>545585119000-p2un2v0vqnp3s1q2vhn7cu37jo6bnl9l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.545585119000-p2un2v0vqnp3s1q2vhn7cu37jo6bnl9l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBf0AU8MAbJCjOuGDeXo-0UuSxmNQ8wExA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>545585119000</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.anturus</string>
+	<key>PROJECT_ID</key>
+	<string>anturus-cc891</string>
+	<key>STORAGE_BUCKET</key>
+	<string>anturus-cc891.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:545585119000:ios:ee10e7f8df9dd1956aa86d</string>
+</dict>
+</plist>
